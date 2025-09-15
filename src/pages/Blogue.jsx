@@ -54,7 +54,7 @@ const SplitTextFlip = () => {
         className="text-9xl font-[font2] text-white"
         style={{ transformStyle: "preserve-3d", backfaceVisibility: "hidden" }}
       >
-        COMMING SOON ! 
+        COMING SOON ! 
       </h1>
     </div>
   );
